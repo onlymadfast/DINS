@@ -8,4 +8,4 @@
 
 ### And you can see:
 
-- 
+- ![This](https://github.com/onlymadfast/DINS/blob/master/src/main/resources/images/1.jpg)
