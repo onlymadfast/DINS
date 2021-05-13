@@ -10,11 +10,11 @@
     </parent>
     <groupId>com.tsipadan</groupId>
     <artifactId>tsipadan</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>RestApplication</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Testing REST API application for DINS</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>14</java.version>
     </properties>
 
     <dependencies>
@@ -54,7 +54,6 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
 
     <build>
